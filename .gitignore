@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+.mvn/wrapper/maven-wrapper.jar
+mvnw*
+.mvn/wrapper/maven-wrapper.properties
 
 # BlueJ files
 *.ctxt
